@@ -8,6 +8,5 @@ Minimize the latency of count and Maximize Precision accuracy.
 
 # CONSTRAINT:
 Minimize Processing Time.
-<img width="2047" height="775" alt="image" src="https://github.com/user-attachments/assets/2867cff8-0446-4c28-bac7-81f71e4ba07b" />
 
 
